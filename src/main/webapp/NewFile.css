@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.green{
+	background-color: greenyellow;
+	text-align: center;
+}
+.blue{
+	background-color: cornflowerblue;
+		text-align: center;
+}
+.gris{
+	background-color: gray;
+		text-align: center;
+}
+.blu{
+	background-color: deepskyblue;
+		text-align: center;
+}
+.orange{
+	background-color: orange;
+		text-align: center;
+}
